@@ -1,9 +1,7 @@
-# Clima
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Clima App
+# Weather App
+Weather forecasting app developed with Swift 4.0 and Xcode
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
+Built for iOS only. 
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
@@ -40,5 +38,4 @@ end
 ```
 
 
-Copyright © The App Brewery
 
